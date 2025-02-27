@@ -3,7 +3,7 @@ import subprocess
 import os
 from discord.ext import commands
 
-TOKEN = "YOUR_DISCORD_BOT_TOKEN"  # Replace with your bot token
+TOKEN = "MTM0MjQwMDA0NjYyMDIxNzM4Ng.G7hfjK.ddymFo3U1gFheM10-gGL8XdMARYHOwxX59QbiE"  # Replace with your bot token
 PREFIX = "!"
 VM_DIR = "/opt/vms/"
 IMG_NAME = "tinyvm.img"
